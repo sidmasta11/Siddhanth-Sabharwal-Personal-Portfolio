@@ -1,0 +1,16 @@
+Paper Book;Harry Potter and the Sorcerer's Stone;J.K. Rowling;Science Fiction;16.04;422;3345;519035342;Pottermore Limited;320
+Audio Book;Harry Potter and the Sorcerer's Stone;J.K. Rowling;Science Fiction;24.75;2444;11024;519035343;Pottermore Limited;MP3
+eBook;Harry Potter and the Sorcerer's Stone;J.K. Rowling;Science Fiction;10.75;41424;52553;NULL;519035344;Pottermore Limited;EPUB
+Paper Book;Hope to Die (Alex Cross);James Patterson;Mystery;12.97;10345;37314;1455515825;Grand Central Publishing;416
+Audio Book;Hope to Die (Alex Cross);James Patterson;Mystery;22.97;5232;500;1455515826;Grand Central Publishing;MP3
+eBook;Hope to Die (Alex Cross);James Patterson;Mystery;5.97;7765;NULL;1455515827;Grand Central Publishing;EPUB
+Paper Book;A Game of Thrones (A Song of Ice and Fire, Book 1);George R.R. Martin;Science Fiction;12.12;6755;789;1553386794;Bantam;720
+Audio Book;A Game of Thrones (A Song of Ice and Fire, Book 1);George R.R. Martin;Science Fiction;15.65;4322;150;1553386795;Bantam;MP3
+eBook;A Game of Thrones (A Song of Ice and Fire, Book 1);George R.R. Martin;Science Fiction;7.99;8855;NULL;1553386796;Bantam;EPUB
+Paper Book;The Ghost;Apryl Baker;Horror;11.69;1111;13967;1492156361;Limitless Publishing LLC;352
+Audio Book;The Ghost;Apryl Baker;Horror;17.95;2323;567;1492156362;Limitless Publishing LLC;MP3
+eBook;The Ghost;Apryl Baker;Horror;1.99;NULL;5433;1492156363;Limitless Publishing LLC;EPUB
+Paper Book;I Married a Billionaire;Melanie Marchande;Romance;7.06;94012;867;1482576988;CreateSpace Independent Publishing Platform;238
+Audio Book;I Married a Billionaire;Melanie Marchande;Romance;17.06;9092;837;1482576989;CreateSpace Independent Publishing Platform;MP3
+eBook;I Married a Billionaire;Melanie Marchande;Romance;2.06;9932;NULL;1482576990;CreateSpace Independent Publishing Platform;EPUB
+
