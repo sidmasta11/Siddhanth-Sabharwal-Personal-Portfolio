@@ -1,0 +1,300 @@
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+2
+Enter Customer ID: BestBuy
+Customer ID: BestBuy
+Order ID: BB1
+Order Date: 1414936800
+Product Type: EP
+Product Name: Panasonic DVD Player
+Product Quantity: 35
+Product ID: 15891
+Price: 125.99
+Condition: 3
+
+Order ID: BB2
+Order Date: 1414936900
+Product Type: EP
+Product Name: Panasonic DVD Player
+Product Quantity: 43
+Product ID: 23219
+Price: 125.99
+Condition: 0
+
+Order ID: BB3
+Order Date: 1414937000
+Product Type: EP
+Product Name: Sony Camcorder
+Product Quantity: 125
+Product ID: 30325
+Price: 395.99
+Condition: 2
+
+Order ID: BB4
+Order Date: 1414937100
+Product Type: EP
+Product Name: Samsung TV
+Product Quantity: 15
+Product ID: 13490
+Price: 298.99
+Condition: 1
+
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+2
+Enter Customer ID: Sid
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+3
+Enter Customer ID: BestBuy2
+Enter Order ID: BB1
+Order ID and customer ID are not found
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+3
+Enter Customer ID: BestBuy
+Enter Order ID: BB5
+Order ID not found
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+3
+Enter Customer ID: BestBuy
+Enter Order ID: BB1
+Order ID has been deleted.
+eProduct object [3] is destroyed.
+Product object [15891,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,35] is destroyed.
+Item destructor
+Order object [0047FC60,BB1,1414936800] is destroyed.
+MENU
+1. Show All Orders
+2. Find Order by Customer ID
+3. Process Order
+4. Quit
+4
+Address object [123,Main Street,94539,CA] is destroyed.
+eProduct object [0] is destroyed.
+Product object [23219,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,43] is destroyed.
+Item destructor
+Order object [004824C8,BB2,1414936900] is destroyed.
+eProduct object [2] is destroyed.
+Product object [30325,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [00482550,BB3,1414937000] is destroyed.
+eProduct object [1] is destroyed.
+Product object [13490,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [004825D8,BB4,1414937100] is destroyed.
+eProduct object [2] is destroyed.
+Product object [27183,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [00484648,CO1,1414937000] is destroyed.
+eProduct object [1] is destroyed.
+Product object [20092,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [00485528,CO2,1414937100] is destroyed.
+eProduct object [0] is destroyed.
+Product object [7075,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [004846D0,CO3,1414936800] is destroyed.
+DiaryProduct object [69878709] is destroyed.
+Product object [28599,2.5] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+Order object [004850E8,DDS1,1514836800] is destroyed.
+eProduct object [3] is destroyed.
+Product object [1178,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [004828F0,FR1,1414936800] is destroyed.
+eProduct object [2] is destroyed.
+Product object [21541,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [004831F0,FR2,1414936900] is destroyed.
+eProduct object [2] is destroyed.
+Product object [1151,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [00483278,FR3,1414937000] is destroyed.
+eProduct object [0] is destroyed.
+Product object [20249,220.81] is destroyed.
+InventoryItem object [EP,Sony TV,210] is destroyed.
+Item destructor
+Order object [00483300,FR4,1414937100] is destroyed.
+eProduct object [1] is destroyed.
+Product object [12526,295.99] is destroyed.
+InventoryItem object [EP,Samsung Camcorder,210] is destroyed.
+Item destructor
+Order object [00483388,GS1,1414936800] is destroyed.
+eProduct object [0] is destroyed.
+Product object [5840,99.99] is destroyed.
+InventoryItem object [EP,Samsung DVD Player,100] is destroyed.
+Item destructor
+Order object [00483480,GS2,1414936900] is destroyed.
+eProduct object [2] is destroyed.
+Product object [23462,295.99] is destroyed.
+InventoryItem object [EP,Samsung Camcorder,210] is destroyed.
+Item destructor
+Order object [00484510,GS3,1414937000] is destroyed.
+eProduct object [3] is destroyed.
+Product object [20371,99.99] is destroyed.
+InventoryItem object [EP,Samsung DVD Player,100] is destroyed.
+Item destructor
+Order object [00484598,GS4,1414937100] is destroyed.
+DiaryProduct object [1678986709] is destroyed.
+Product object [3721,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+Order object [00484E40,JDS1,1514936800] is destroyed.
+eProduct object [2] is destroyed.
+Product object [28376,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [00484B98,JE1,1414937000] is destroyed.
+eProduct object [1] is destroyed.
+Product object [17047,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [00484868,JE2,1414937100] is destroyed.
+eProduct object [0] is destroyed.
+Product object [3017,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [00484C20,JE3,1414936800] is destroyed.
+DiaryProduct object [1678986709] is destroyed.
+Product object [29894,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+Order object [00484978,LK1,1514936800] is destroyed.
+DiaryProduct object [2147483647] is destroyed.
+Product object [7914,2.5] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+Order object [00485308,LK2,1515936800] is destroyed.
+eProduct object [2] is destroyed.
+Product object [22372,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [00484EC8,ME1,1414937000] is destroyed.
+eProduct object [1] is destroyed.
+Product object [2225,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [00484758,ME2,1414937100] is destroyed.
+eProduct object [0] is destroyed.
+Product object [11373,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [004847E0,ME3,1414936800] is destroyed.
+DiaryProduct object [1414836800] is destroyed.
+Product object [2937,4.95] is destroyed.
+InventoryItem object [DP,Dutch Cheese,234] is destroyed.
+Item destructor
+Order object [00484CA8,SW1,1514936800] is destroyed.
+DiaryProduct object [1414739810] is destroyed.
+Product object [127,6.95] is destroyed.
+InventoryItem object [DP,Horizon Milk,100] is destroyed.
+Item destructor
+Order object [004848F0,SW2,1514946800] is destroyed.
+DiaryProduct object [78986709] is destroyed.
+Product object [21698,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+Order object [00485390,SM1,1514936800] is destroyed.
+DiaryProduct object [69878709] is destroyed.
+Product object [6602,2.5] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+Order object [00484A00,SM2,1514836800] is destroyed.
+DiaryProduct object [78986709] is destroyed.
+Product object [3746,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+Order object [00484FD8,SDS1,1514936800] is destroyed.
+DiaryProduct object [2147483647] is destroyed.
+Product object [3326,2.5] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+Order object [00484F50,TDS1,1515936800] is destroyed.
+eProduct object [2] is destroyed.
+Product object [19279,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+Order object [00484B10,TE1,1414937000] is destroyed.
+eProduct object [1] is destroyed.
+Product object [8997,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+Order object [00484A88,TE2,1414937100] is destroyed.
+eProduct object [0] is destroyed.
+Product object [11074,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [00485060,TE3,1414936800] is destroyed.
+DiaryProduct object [1514739810] is destroyed.
+Product object [22882,4.95] is destroyed.
+InventoryItem object [DP,Belgium Cheese,234] is destroyed.
+Item destructor
+Order object [00484D30,WG1,1514936800] is destroyed.
+DiaryProduct object [1414936822] is destroyed.
+Product object [14007,3.25] is destroyed.
+InventoryItem object [DP,Butter,235] is destroyed.
+Item destructor
+Order object [00484DB8,WG2,1514936900] is destroyed.
+eProduct object [0] is destroyed.
+Product object [6958,399] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+Order object [00482660,WM1,1414936800] is destroyed.
+eProduct object [2] is destroyed.
+Product object [10129,220.81] is destroyed.
+InventoryItem object [EP,Sony TV,210] is destroyed.
+Item destructor
+Order object [00482758,WM2,1414936900] is destroyed.
+eProduct object [0] is destroyed.
+Product object [31175,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,5] is destroyed.
+Item destructor
+Order object [004827E0,WM3,1414937000] is destroyed.
+eProduct object [3] is destroyed.
+Product object [28724,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,43] is destroyed.
+Item destructor
+Order object [00482868,WM4,1414937100] is destroyed.
+Order Processing System object [Sid's Amazing Store,SAS] is destroyed.
+Press any key to continue . . .

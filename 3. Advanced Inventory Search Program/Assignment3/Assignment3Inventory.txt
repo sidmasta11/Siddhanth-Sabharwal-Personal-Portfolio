@@ -1,0 +1,24 @@
+EP;Panasonic DVD Player;35;125.99;D
+EP;Panasonic DVD Player;43;125.99;N
+EP;Sony Camcorder;125;395.99;U
+EP;Samsung TV;15;298.99;R
+EP;Apple iPhone 6;1200;399.00;N
+EP;Sony TV;210;220.81;U
+EP;Panasonic DVD Player;5;125.99;N
+EP;Panasonic DVD Player;43;125.99;D
+EP;Sony Camcorder;125;395.99;D
+EP;Samsung TV;15;298.99;U
+EP;Apple iPhone 6;1200;399;U
+EP;Sony TV;210;220.81;N
+EP;Samsung Camcorder;210;295.99;R
+EP;Samsung DVD Player;100;99.99;N
+EP;Samsung Camcorder;210;295.99;U
+EP;Samsung DVD Player;100;99.99;D
+DP;Dutch Cheese;234;4.95;1414836800
+DP;Horizon Milk;100;6.95;1414739810
+DP;Belgium Cheese;234;4.95;1514739810
+DP;Butter;235;3.25;1414936822
+DP;Ice Cream;300;8.95;1678986709
+DP;Nutella;200;2.50;18769878709
+DP;Ice Cream;300;8.95;78986709
+DP;Nutella;200;2.50;69878709

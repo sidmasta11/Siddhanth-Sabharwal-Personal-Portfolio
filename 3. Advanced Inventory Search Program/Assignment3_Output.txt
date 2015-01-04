@@ -1,0 +1,213 @@
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+Item constructor
+
+Inventory System Report:
+EP;Panasonic DVD Player;35;27299;125.99;D
+EP;Panasonic DVD Player;43;1209;125.99;N
+EP;Sony Camcorder;125;29222;395.99;U
+EP;Samsung TV;15;14017;298.99;R
+EP;Apple iPhone 6;1200;21129;399.00;N
+EP;Sony TV;210;256;220.81;U
+EP;Panasonic DVD Player;5;28686;125.99;N
+EP;Panasonic DVD Player;43;29510;125.99;D
+EP;Sony Camcorder;125;1858;395.99;D
+EP;Samsung TV;15;25884;298.99;U
+EP;Apple iPhone 6;1200;21955;399.00;U
+EP;Sony TV;210;31728;220.81;N
+EP;Samsung Camcorder;210;4923;295.99;R
+EP;Samsung DVD Player;100;214;99.99;N
+EP;Samsung Camcorder;210;416;295.99;U
+EP;Samsung DVD Player;100;27769;99.99;D
+DP;Dutch Cheese;234;17569;4.95;1414836800
+DP;Horizon Milk;100;8361;6.95;1414739810
+DP;Belgium Cheese;234;8014;4.95;1514739810
+DP;Butter;235;32666;3.25;1414936822
+DP;Ice Cream;300;19988;8.95;1678986709
+DP;Nutella;200;14672;2.50;2147483647
+DP;Ice Cream;300;13712;8.95;78986709
+DP;Nutella;200;32540;2.50;69878709
+
+Defective Inventory:
+EP;Panasonic DVD Player;35;27299;125.99;D
+EP;Panasonic DVD Player;43;29510;125.99;D
+EP;Sony Camcorder;125;1858;395.99;D
+EP;Samsung DVD Player;100;27769;99.99;D
+
+Expired Items:
+DP;Dutch Cheese;234;17569;4.95;1414836800
+DP;Horizon Milk;100;8361;6.95;1414739810
+DP;Butter;235;32666;3.25;1414936822
+DP;Ice Cream;300;13712;8.95;78986709
+DP;Nutella;200;32540;2.50;69878709
+
+Overloading operator Implementation:
+Item constructor
+EP;Test;5;9453;20.56;0
+
+Item constructor
+Item constructor
+eProducts are the same
+
+End of operator overloading test.
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? s
+
+Enter Product ID: 27299
+EP;Panasonic DVD Player;35;27299;125.99;D
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? S
+
+Enter Product ID: 27769
+EP;Samsung DVD Player;100;27769;99.99;D
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? s
+
+Enter Product ID: 32540
+DP;Nutella;200;32540;2.50;69878709
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? q
+
+Thank You!
+
+eProduct object [3] is destroyed.
+Product object [27299,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,35] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [1209,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,43] is destroyed.
+Item destructor
+eProduct object [2] is destroyed.
+Product object [29222,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+eProduct object [1] is destroyed.
+Product object [14017,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [21129,399.00] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+eProduct object [2] is destroyed.
+Product object [256,220.81] is destroyed.
+InventoryItem object [EP,Sony TV,210] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [28686,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,5] is destroyed.
+Item destructor
+eProduct object [3] is destroyed.
+Product object [29510,125.99] is destroyed.
+InventoryItem object [EP,Panasonic DVD Player,43] is destroyed.
+Item destructor
+eProduct object [3] is destroyed.
+Product object [1858,395.99] is destroyed.
+InventoryItem object [EP,Sony Camcorder,125] is destroyed.
+Item destructor
+eProduct object [2] is destroyed.
+Product object [25884,298.99] is destroyed.
+InventoryItem object [EP,Samsung TV,15] is destroyed.
+Item destructor
+eProduct object [2] is destroyed.
+Product object [21955,399.00] is destroyed.
+InventoryItem object [EP,Apple iPhone 6,1200] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [31728,220.81] is destroyed.
+InventoryItem object [EP,Sony TV,210] is destroyed.
+Item destructor
+eProduct object [1] is destroyed.
+Product object [4923,295.99] is destroyed.
+InventoryItem object [EP,Samsung Camcorder,210] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [214,99.99] is destroyed.
+InventoryItem object [EP,Samsung DVD Player,100] is destroyed.
+Item destructor
+eProduct object [2] is destroyed.
+Product object [416,295.99] is destroyed.
+InventoryItem object [EP,Samsung Camcorder,210] is destroyed.
+Item destructor
+eProduct object [3] is destroyed.
+Product object [27769,99.99] is destroyed.
+InventoryItem object [EP,Samsung DVD Player,100] is destroyed.
+Item destructor
+DiaryProduct object [1414836800] is destroyed.
+Product object [17569,4.95] is destroyed.
+InventoryItem object [DP,Dutch Cheese,234] is destroyed.
+Item destructor
+DiaryProduct object [1414739810] is destroyed.
+Product object [8361,6.95] is destroyed.
+InventoryItem object [DP,Horizon Milk,100] is destroyed.
+Item destructor
+DiaryProduct object [1514739810] is destroyed.
+Product object [8014,4.95] is destroyed.
+InventoryItem object [DP,Belgium Cheese,234] is destroyed.
+Item destructor
+DiaryProduct object [1414936822] is destroyed.
+Product object [32666,3.25] is destroyed.
+InventoryItem object [DP,Butter,235] is destroyed.
+Item destructor
+DiaryProduct object [1678986709] is destroyed.
+Product object [19988,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+DiaryProduct object [2147483647] is destroyed.
+Product object [14672,2.50] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+DiaryProduct object [78986709] is destroyed.
+Product object [13712,8.95] is destroyed.
+InventoryItem object [DP,Ice Cream,300] is destroyed.
+Item destructor
+DiaryProduct object [69878709] is destroyed.
+Product object [32540,2.50] is destroyed.
+InventoryItem object [DP,Nutella,200] is destroyed.
+Item destructor
+
+Goodbye!
+
+eProduct object [1] is destroyed.
+Product object [16401,2000.12] is destroyed.
+InventoryItem object [EP,Samsung,200] is destroyed.
+Item destructor
+eProduct object [1] is destroyed.
+Product object [9135,2000.12] is destroyed.
+InventoryItem object [EP,Samsung,200] is destroyed.
+Item destructor
+eProduct object [0] is destroyed.
+Product object [17605,20.56] is destroyed.
+InventoryItem object [EP,Test,5] is destroyed.
+Item destructor
+
+Press any key to continue . . .

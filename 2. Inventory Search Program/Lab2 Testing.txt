@@ -1,0 +1,112 @@
+Inventory System Report:
+Panasonic DVD Player;5;5746;125.99;D
+Panasonic DVD Player;43;15981;125.99;N
+Sony Camcorder;125;9535;395.99;U
+Samsung TV;15;21323;298.99;R
+Apple iPhone 6;1200;9493;399.00;N
+Sony TV;210;1795;220.81;U
+Panasonic DVD Player;5;20383;125.99;N
+Panasonic DVD Player;43;27153;125.99;D
+Sony Camcorder;125;24563;395.99;D
+Samsung TV;15;12134;298.99;U
+Apple iPhone 6;1200;32047;399.00;U
+Sony TV;210;31144;220.81;N
+Samsung Camcorder;210;6920;295.99;R
+Samsung DVD Player;100;16388;99.99;N
+Samsung Camcorder;210;16193;295.99;U
+Samsung DVD Player;100;11114;99.99;D
+
+Defective Inventory:
+Panasonic DVD Player;5;5746;125.99;D
+Panasonic DVD Player;43;27153;125.99;D
+Sony Camcorder;125;24563;395.99;D
+Samsung DVD Player;100;11114;99.99;D
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? s
+
+Enter Product ID: 5746
+Panasonic DVD Player;5;5746;125.99;D
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? S
+
+Enter Product ID: 12134
+Samsung TV;15;12134;298.99;U
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? s
+
+Enter Product ID: 11114
+Samsung DVD Player;100;11114;99.99;D
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? s
+
+Enter Product ID: 123
+There is no item with such a Product ID.
+
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? g
+
+Please enter a q/Q or s/S.
+
+Would you like to search for an item (S or s) or would you like to quit (Q or q)
+ the program? q
+
+Thank You!
+
+eProduct object [3] is destroyed.
+Product object [5746,125.99] is destroyed.
+InventoryItem object [Panasonic DVD Player,5] is destroyed.
+eProduct object [0] is destroyed.
+Product object [15981,125.99] is destroyed.
+InventoryItem object [Panasonic DVD Player,43] is destroyed.
+eProduct object [2] is destroyed.
+Product object [9535,395.99] is destroyed.
+InventoryItem object [Sony Camcorder,125] is destroyed.
+eProduct object [1] is destroyed.
+Product object [21323,298.99] is destroyed.
+InventoryItem object [Samsung TV,15] is destroyed.
+eProduct object [0] is destroyed.
+Product object [9493,399.00] is destroyed.
+InventoryItem object [Apple iPhone 6,1200] is destroyed.
+eProduct object [2] is destroyed.
+Product object [1795,220.81] is destroyed.
+InventoryItem object [Sony TV,210] is destroyed.
+eProduct object [0] is destroyed.
+Product object [20383,125.99] is destroyed.
+InventoryItem object [Panasonic DVD Player,5] is destroyed.
+eProduct object [3] is destroyed.
+Product object [27153,125.99] is destroyed.
+InventoryItem object [Panasonic DVD Player,43] is destroyed.
+eProduct object [3] is destroyed.
+Product object [24563,395.99] is destroyed.
+InventoryItem object [Sony Camcorder,125] is destroyed.
+eProduct object [2] is destroyed.
+Product object [12134,298.99] is destroyed.
+InventoryItem object [Samsung TV,15] is destroyed.
+eProduct object [2] is destroyed.
+Product object [32047,399.00] is destroyed.
+InventoryItem object [Apple iPhone 6,1200] is destroyed.
+eProduct object [0] is destroyed.
+Product object [31144,220.81] is destroyed.
+InventoryItem object [Sony TV,210] is destroyed.
+eProduct object [1] is destroyed.
+Product object [6920,295.99] is destroyed.
+InventoryItem object [Samsung Camcorder,210] is destroyed.
+eProduct object [0] is destroyed.
+Product object [16388,99.99] is destroyed.
+InventoryItem object [Samsung DVD Player,100] is destroyed.
+eProduct object [2] is destroyed.
+Product object [16193,295.99] is destroyed.
+InventoryItem object [Samsung Camcorder,210] is destroyed.
+eProduct object [3] is destroyed.
+Product object [11114,99.99] is destroyed.
+InventoryItem object [Samsung DVD Player,100] is destroyed.
+
+Goodbye!
