@@ -1,4 +1,4 @@
-Siddhanth-Sabharwal-Personal-Portfoio
+Siddhanth-Sabharwal-Personal-Portfolio
 =====================================
 
 This repository contains many programs and projects I have created in C++. They demonstrate some of my skills and what I am capable of doing. I hope you enjoy using my programs, and please contact me if any of them interest you.
