@@ -1,0 +1,9 @@
+There are two folders, one contains just the source files, 
+and the other contains a project file that links them all together.
+If you are interested in actually visualizing what the stars in our galaxy look like, 
+I strongly suggest you run the project and be amazed by the powerful projection 
+of 3D space onto a 2D field.
+
+-Siddhanth Sabharwal
+(510) 585-6636
+siddhanth.sabharwal1995@gmail.com
